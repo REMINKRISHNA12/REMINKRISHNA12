@@ -13,11 +13,11 @@
   <!-- <b>⚔️ <i>Cyber </i>  |<i> 🧠 Tester </i>| 🐧 <i>Arch </i> </b> -->
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/TryHackMe-Top%201%25-red?style=for-the-badge&logo=tryhackme" />
   <img src="https://img.shields.io/badge/Blue%20Team-SOC%20Analyst-blue?style=for-the-badge&logo=splunk" />
   <img src="https://img.shields.io/badge/Arch%20Linux-Hyprland-1793D1?style=for-the-badge&logo=arch-linux" />
-</p>
+</p> -->
 
 ---
 
