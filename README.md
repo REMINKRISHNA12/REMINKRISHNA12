@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtobWNpejIycmx2aHd0MHpvazljZG9uN25kd3ZmdDJlcmdudDZmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y8cm9qBj8SdhwIrkPU/giphy.gif" width="500">
 </p> 
+<img src="https://readme-typing-svg.demolab.com/?lines=Heey+Buddy,+Light+Weight+Baby!+🔥&font=Fira%20Code&center=true&width=600&height=65&duration=4000&pause=1000&color=000000" alt="Heey Buddy Light Weight Baby">
 
 
 <h1 align="center"> <b>_rem1n_kr1shn4</b> 🔥</h1>
