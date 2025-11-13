@@ -77,8 +77,8 @@
 ---
 
 <p align="center">
-  <i>“Defense is the art of understanding the attack.”</i><br>
-  <b>Stay Anonymous. Stay Secure.</b> 🕶️
+  <i>“Hasta la victoria siempre 🔥 ”</i><br>
+  <b> ALL IS WELL 🕶️ </b> 
 </p>
 
 
