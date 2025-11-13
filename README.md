@@ -23,12 +23,11 @@
 
 <h2>🧩 About Me</h2>
 
-- 🔒 Passionate about **Cyber Security & Blue Team Operations**  
-- 🧠 Learning **Detection Engineering, Threat Hunting & Network Security**  
-- 🐧 Using **Arch Linux + Hyprland** for a clean hacker workspace  
-- 🧰 Tools: **Wireshark, Nmap, Burp Suite, Nuclei, Suricata, Zeek**  
-- 🎯 Focused on becoming a **SOC Analyst**  
-- ⚡ Motto: “Silence, Focus, and Defense.”
+## 👋 About Me
+
+- 🎓 I'm an **MCA student**  
+- 👨‍🏫 Interested in **teaching**  
+- 💪 Passionate about **bodybuilding**
 
 ---
 
