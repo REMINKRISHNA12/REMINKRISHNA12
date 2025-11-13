@@ -3,10 +3,10 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtobWNpejIycmx2aHd0MHpvazljZG9uN25kd3ZmdDJlcmdudDZmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y8cm9qBj8SdhwIrkPU/giphy.gif" width="500">
 </p> 
  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=heey+buddy+light+weight+baby" alt="heey buddy light weight baby">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=heey+buddy+light+weight+baby" alt="heey buddy light weight baby 🔥🔥🔥">
 </p>
 
-<h1 align="center">🔥 <b>_rem1n_kr1shn4</b> 🔥</h1>
+<h1 align="center"> <b>_rem1n_kr1shn4</b> 🔥</h1>
 
 
 
