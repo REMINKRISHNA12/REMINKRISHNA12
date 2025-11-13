@@ -2,9 +2,113 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtobWNpejIycmx2aHd0MHpvazljZG9uN25kd3ZmdDJlcmdudDZmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y8cm9qBj8SdhwIrkPU/giphy.gif" width="500">
 </p> 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Heey+Buddy,+Light+Weight+Baby!+🔥" alt="heey buddy light weight baby">
-</p>
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Typing Effect</title>
+<style>
+  /* Reset & base */
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    background-color: #0d1117;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Fira Code', monospace;
+    color: #36BCF7;
+  }
+
+  .typing-container {
+    text-align: center;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 1.5;
+  }
+
+  /* Typing effect */
+  .typing-text {
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 3px solid #36BCF7;
+    animation: typing 4s steps(35, end) forwards, blink 0.8s step-end infinite alternate;
+  }
+
+  @keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+
+  @keyframes blink {
+    50% { border-color: transparent; }
+  }
+
+  /* Optional: Multiple lines */
+  .typing-text span {
+    display: block;
+  }
+</style>
+</head>
+<body>
+  <div class="typing-container">
+    <div class="typing-text">
+      <span>Heey Buddy, Light Weight Baby! 🔥</span>
+      <span>Yeah Buddy! Nothing but a Peanut! 💪</span>
+    </div>
+  </div>
+
+  <script>
+    // Optional: loop through multiple lines with typing + erasing effect
+    const lines = [
+      "Heey Buddy, Light Weight Baby! 🔥",
+      "Yeah Buddy! Nothing but a Peanut! 💪"
+    ];
+
+    const typingText = document.querySelector('.typing-text');
+    let lineIndex = 0;
+    let charIndex = 0;
+    let isDeleting = false;
+    const typingSpeed = 100; // ms per character
+    const pauseBetween = 1500; // pause after each line
+
+    function type() {
+      const currentLine = lines[lineIndex];
+      if (!isDeleting) {
+        typingText.textContent = currentLine.substring(0, charIndex + 1);
+        charIndex++;
+        if (charIndex === currentLine.length) {
+          isDeleting = true;
+          setTimeout(type, pauseBetween);
+          return;
+        }
+      } else {
+        typingText.textContent = currentLine.substring(0, charIndex - 1);
+        charIndex--;
+        if (charIndex === 0) {
+          isDeleting = false;
+          lineIndex = (lineIndex + 1) % lines.length;
+        }
+      }
+      setTimeout(type, typingSpeed);
+    }
+
+    type();
+  </script>
+</body>
+</html>
+
 
 <h1 align="center"> <b>_rem1n_kr1shn4</b> 🔥</h1>
 ---
